@@ -31,12 +31,12 @@ I am a passionate software developer transitioning from a career in logistics (*
 > Implementation of Pointer Networks to solve the Travelling Salesman Problem. A key brick for autonomous path planning in mobile robotics.
 > `PyTorch` `Neural Attention` `LSTMs`
 
-### [MLP-From-Scratch](https://github.com/ton-pseudo/mlp-from-scratch)
+### [MLP-From-Scratch](https://github.com/davidvo44/MultilayerPerceptron)
 > **Mathematics / Neural Networks**
 > Building a Multi-Layer Perceptron without high-level ML libraries. Deep dive into backpropagation and linear algebra.
 > `Python` `NumPy` `Maths`
 
-### [Core-42-Projects](https://github.com/ton-pseudo/core-42)
+### [Core-42-Projects](https://github.com/davidvo44/ft_irc)
 > **Low-level Systems Programming**
 > A collection of rigorous C/C++ projects focusing on memory management, Unix internals, and 3D rendering (Raycasting).
 > `C` `C++` `Algorithms`
@@ -45,7 +45,7 @@ I am a passionate software developer transitioning from a career in logistics (*
 
 ## 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[TON-PSEUDO]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=[davidvo44]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
