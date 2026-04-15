@@ -45,7 +45,7 @@ I am a passionate software developer transitioning from a career in logistics (*
 
 ## 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[davidvo44]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=davidvo44&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
