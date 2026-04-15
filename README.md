@@ -26,7 +26,7 @@ I am a passionate software developer transitioning from a career in logistics (*
 
 ## 🌟 Featured Projects
 
-### [Pointer-Networks-TSP](https://github.com/davidvo44/Pointer-Network))
+### [Pointer-Networks-TSP](https://github.com/davidvo44/Pointer-Network)
 > **Deep Learning / Combinatorial Optimization**
 > Implementation of Pointer Networks to solve the Travelling Salesman Problem. A key brick for autonomous path planning in mobile robotics.
 > `PyTorch` `Neural Attention` `LSTMs`
