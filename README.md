@@ -1,4 +1,4 @@
-# Hi there, I'm [Ton Prénom] 👋 🤖
+# Hi there, I'm David VO 👋 🤖
 
 ### AI & Robotics Developer | School 42 Student | Embodied AI Enthusiast
 
